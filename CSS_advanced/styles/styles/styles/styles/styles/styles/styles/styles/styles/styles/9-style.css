@@ -1,0 +1,6 @@
+/* ... même contenu que 8-style.css ... */
+
+a {
+  color: var(--text-color);
+  text-decoration: none;
+}
