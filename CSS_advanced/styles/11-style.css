@@ -1,0 +1,11 @@
+:root {
+  --section-tagline-transform: uppercase;
+}
+
+/* Ajoute après tout le contenu de 10-style.css */
+
+.section-tagline {
+  font-family: var(--font-family-title);
+  text-transform: var(--section-tagline-transform);
+  font-weight: var(--font-weight-bold);
+}
